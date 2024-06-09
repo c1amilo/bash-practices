@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 # Arrays
 # An array can hold several values under one name. Array naming
 # is the same as variables naming. An array initialized by assign

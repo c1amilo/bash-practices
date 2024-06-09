@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 # Passing Arguments to the Script
 # Arguments can be passed to the scrit when it is executed, by
 # writting them as a space-delimited list following the script file name.
