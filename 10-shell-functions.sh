@@ -3,6 +3,8 @@
 # is a subroutine that implments a set of commands and operations. It is
 # useful for repeated tasks. e.g.
 
+#!/bin/bash
+
 function function_B {
     echo "Funciont B."
 }
